@@ -18,7 +18,7 @@ const Menu = () => (
         <Navbar.Collapse id="responsive-navbar-nav">
             <Nav className="mr-auto">
                 <LinkContainer to="/home">
-                    <Nav.Link>Home</Nav.Link>
+                    <Nav.Link>Home PRUEBA</Nav.Link>
                 </LinkContainer>
                 <NavDropdownMenu title="ACCESORIOS" id="collasible-nav-dropdown" style={{width: '1000px'}}>
 
@@ -41,7 +41,7 @@ const Menu = () => (
                 </NavDropdownMenu>
 
                 <LinkContainer to="/acerca_de">
-                    <Nav.Link>Acerca de Nosotros</Nav.Link>
+                    <Nav.Link>Acerca de Nosotros PRUEBA</Nav.Link>
                 </LinkContainer>
             </Nav>
         </Navbar.Collapse>
